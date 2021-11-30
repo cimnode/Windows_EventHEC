@@ -1,5 +1,5 @@
 {
-	"SplunkURL":"https://pony.cimnet:8088/services/collector",
-	"SplunkHECToken":"c68d66cf-88f7-4a48-b37c-e7e4e4962823",
-	"SplunkIndex":"cimnet_systems"
+	"SplunkURL":"https://your server:8088/services/collector",
+	"SplunkHECToken":"aaaaaaaa-0000-bbbb-1111-ccccccccccc",
+	"SplunkIndex":"target_index"
 }
