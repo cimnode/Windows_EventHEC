@@ -1,4 +1,6 @@
 # Windows_EventHEC
+
+This is a work in progress. Not for production (or even dev)
   
 ## this can create event loops! ##  
   
